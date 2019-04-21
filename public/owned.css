@@ -1,0 +1,95 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+header{
+  height: 100px;
+  width: 100%;
+  float: left;
+  background-color: rgb(0,0,0);
+  border-bottom: 1px solid white;
+}
+.lookMagic{
+  height: 328px;
+  width: 40%;
+  float: left;
+  margin-top: -23px;
+  margin-left: 423px;
+}
+.cardSearch{
+  height: 330px;
+  width: 100%;
+  float: right;
+  background-color: rgb(0,0,0);
+}
+#nameCard{
+  margin-top: 88px;
+  float: left;
+  margin-left: -384px;
+  font-size: 17px;
+}
+#cardSearch{
+  margin-top: 87px;
+  float: left;
+  margin-left: -150px;
+  padding: 3px;
+  font-size: 16px;
+}
+#magic{
+  height: 326px;
+  width: auto;
+  float: left;
+  margin-left: -97px;
+  margin-top: 25px;
+}
+header > section{
+  height: 100px;
+  width: 40%;
+  float: left;
+  margin-top: -57px;
+  margin-left: 1002px;
+}
+section{
+  height: 1000px;
+  width: 100%;
+  float: left;
+}
+li{
+  list-style: none;
+}
+img{
+  height: 250px;
+  width: auto;
+  float: left;
+  margin-left: 25px;
+  margin-top: 40px;
+}
+a{
+  text-decoration: none;
+}
+h1{
+  float: left;
+  margin-top: 20px;
+  color: rgb(250,179,36);
+}
+.trash{
+  float: left;
+ margin-left: -117px;
+ margin-top: 13px;
+ font-size: 11px;
+ padding: 3px;
+}
+.well{
+  font-size: 25px;
+  float: left;
+  margin-top: 25px;
+  margin-left: 160px;
+  color: rgb(250,179,36);
+}
+p{
+  float: left;
+  margin-top: 20px;
+  font-size: 26px;
+  color: white;
+}
